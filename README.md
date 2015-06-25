@@ -1,6 +1,6 @@
 # Addon-sass-example
 
-This README outlines the details of collaborating on this Ember addon.
+A minimalist example demonstrating how to use Sass (scss) preprocessor inside an Ember CLI Addon.
 
 ## Installation
 
